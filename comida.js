@@ -1,19 +1,19 @@
-x = 1
-nome = "pizza"
-console.log(nome+x)
+var x = 1;
+var nome = "Maça";
+console.log(nome + x);
 
-x = 2
-nome = "peixe"
-console.log(nome+x)
+x = 2;
+nome = "Banana";
+console.log(nome + x);
 
-x = 3
-nome = "frango"
-console.log(nome+x)
+x = 3;
+nome = "Uva";
+console.log(nome + x);
 
-x = 4
-nome = "carne"
-console.log(nome+x)
+x = 4;
+nome = "Morango";
+console.log(nome + x);
 
-x = 5
-nome = "arroz"
-console.log(nome+x)
+x = 5;
+nome = "Amora";
+console.log(nome + x);
